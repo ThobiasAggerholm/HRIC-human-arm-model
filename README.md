@@ -1,5 +1,6 @@
 # HRIC-human-arm-model
 This reporsitory contains the ROS packages developed for musculoskeletal modelling of the right human arm.
+The packages developed for this project are stored inside HRIC-human arm model.zip
 ## Overview
 human_arm_control - ROS package that contains an implementation of a gravity compensation controller for control of the skeletal human arm model.
 
