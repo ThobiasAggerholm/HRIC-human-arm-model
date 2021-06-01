@@ -15,3 +15,5 @@ preprocessing - ROS package for extracting and transforming muscle definintions 
 right_human_arm - Folder that contains the musculoskeletal model of the human arm. Config files are included to load the model into the hybrid simulator database.
 
 sdfPoseConvert - ROS package to convert poses in a SDF version 1.7 file to poses in a SDF version 1.4 file.
+
+matlab.zip - Matlab scripts to calculate URDF poses from D-H parameters. Also has scripts for visualising demonstration results.
